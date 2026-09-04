@@ -31,4 +31,4 @@ Assim que as configurações de DNS e GitHub Pages forem finalizadas, o site pod
 Desenvolvido por **Cristhyan Duarte**.
 
 * **GitHub:** [@cristhyandev](https://github.com/cristhyandev)
-* **LinkedIn:** [Seu Perfil do LinkedIn](https://www.linkedin.com/in/cristhyandev/)
+* **LinkedIn:** [@cristhyandev](https://www.linkedin.com/in/cristhyandev/)
